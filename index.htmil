@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte, Futuro Sustentável</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="nav-container">
+            <div class="logo">Agro<span>Sustentável</span></div>
+            <ul class="nav-menu">
+                <li><a href="#inicio">Início</a></li>
+                <li><a href="#sobre">Compromisso</a></li>
+                <li><a href="#tecnologia">Tecnologia</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <section class="hero" id="inicio">
+        <div class="hero-content">
+            <h1>Agro forte, futuro sustentável:<br>equilíbrio entre produção e meio ambiente</h1>
+            <p>Produzir com inteligência é preservar com eficiência. Conheça como o agro brasileiro une a tecnologia e o respeito à natureza para garantir o amanhã.</p>
+            <a href="#sobre" class="btn">Descubra Como</a>
+        </div>
+    </section>
+
+    <section class="manifesto" id="sobre">
+        <h2 class="section-title">O Equilíbrio Inteligente</h2>
+        <p>
+            O futuro do planeta depende da nossa capacidade de inovar no campo. O agronegócio brasileiro é pioneiro em transformar desafios ecológicos em soluções tecnológicas, provando que a produtividade de alta escala e a conservação ambiental caminham lado a lado.
+        </p>
+    </section>
+
+    <section class="pilares" id="tecnologia">
+        <div class="pilares-header">
+            <h2 class="section-title">Como Unimos Tecnologia e Natureza</h2>
+        </div>
+        <div class="pilares-container">
+            <div class="card">
+                <div class="card-icon">🚜</div>
+                <h3>Agricultura de Precisão</h3>
+                <p>Uso de sensores, drones e dados de satélite para aplicar insumos no local correto e na quantidade exata, reduzindo o desperdício e protegendo o solo.</p>
+            </div>
+            <div class="card">
+                <div class="card-icon">💧</div>
+                <h3>Manejo Eficiente da Água</h3>
+                <p>Sistemas de irrigação inteligente que analisam a umidade do solo em tempo real, garantindo o uso racional e a preservação dos recursos hídricos.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 AgroSustentável. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
